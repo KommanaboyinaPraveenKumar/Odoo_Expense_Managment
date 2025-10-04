@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **Team Name** | **Code Coders** |
 | **Team Members** | Praveen, Aadarsh, Likhitha, Surya|
-| **Problem Statement** | [cite_start]Expense Management [cite: 2] |
+| **Problem Statement** |Expense Management  |
 | **Reviewer** | Aman Patel |
 
 ---
@@ -50,3 +50,4 @@ The application relies on external APIs for essential data:
 
 ---
 [cite_start]*Mockup provided at: [https://link.excalidraw.com/l/65VNwvy7c4X/4WSLZDTrhkA](https://link.excalidraw.com/l/65VNwvy7c4X/4WSLZDTrhkA)* [cite: 49]
+
